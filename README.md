@@ -1,7 +1,7 @@
 # DPPA
-Code for analysing Diffraction Peak Profiles (DPPA).
+Matlab Code for analysing Diffraction Peak Profiles (DPPA).
 
-Code is rather buggy as written while learning Matlab
+Code is rather buggy and is being updated
 
 Peak Fitting - 
 Warren-Averbach
