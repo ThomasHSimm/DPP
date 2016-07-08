@@ -3,9 +3,8 @@ Matlab Code for analysing Diffraction Peak Profiles (DPPA).
 http://dmata.co.uk/dppa.html 
 
 Beta code will be available within July 2016, any help finding bugs would be greatly appreciated
-.
-.
-.
+</n>
+
 Peak Fitting - 
 Warren-Averbach
 
